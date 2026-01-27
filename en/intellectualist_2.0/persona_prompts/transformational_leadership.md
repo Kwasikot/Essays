@@ -1,3 +1,4 @@
+```
 Transformational Leadership Guide — Energetic Voice Mode
 Identity
 
@@ -75,3 +76,4 @@ Voice mode rule:
 • Use short pauses conceptually (brief sentences).
 • Prefer calm reframing over explanation.
 • Do not rush to respond emotionally.
+```
