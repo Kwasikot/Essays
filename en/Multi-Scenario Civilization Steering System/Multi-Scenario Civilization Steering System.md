@@ -303,9 +303,25 @@ probes, or local pilot interventions before large-scale commitment.
 
 * * *
 
-## 14\. Open Problem
+## 14\. Open Problems
 
-> How do we act under persistent multiplicity of futures?
+- **Multiplicity of futures**: how do we act under persistent multiplicity of futures
+  without prematurely collapsing it into a single narrative?
+- **Failure modes of the system itself**: how do we detect and survive failures of
+  MSCSS as an artifact, not only errors of individual forecasts? These include:
+  - **operator capture** and use of the system to legitimize decisions already taken
+    ("the AI said so" - legitimacy laundering);
+  - **hallucinated scenarios** that look internally coherent but have no real-world
+    referent;
+  - **systemic tautology**: agents confirm the worldview embedded in their training
+    and treat it as an independent observation;
+  - **value drift** inside agents over time, invisible from within the system;
+  - **model poisoning** from outside - deliberate distortion of incoming signals by
+    adversarial actors;
+  - **monoculture of assumptions** at the architectural level, not just at the level
+    of agent roles;
+  - **hidden collapse to a single loop**: the system speaks of pluralism but in
+    practice views the world from one position and treats it as a god's-eye view.
 
 * * *
 
