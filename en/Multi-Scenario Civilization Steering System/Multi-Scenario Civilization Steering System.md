@@ -41,11 +41,14 @@ Each scenario includes:
 - Name
 - Description
 - Key assumptions
+- Causal structure
 - Early signals (indicators)
 - Supporting evidence
 - Counter-evidence
 - Probability estimate
 - Confidence level
+- Resilience score
+- Candidate interventions
 - Impact analysis (personal / organizational / civilizational)
 
 * * *
@@ -60,6 +63,9 @@ Agents collect raw signals from the world:
 - Policy/regulation changes
 - Technological releases
 - Social and cultural trends
+- Infrastructure telemetry
+- Sensor networks
+- Feedback from communities and institutions
 
 Output:
 
@@ -75,6 +81,8 @@ Aligned AI agents interpret observations:
 - Estimate strength of impact
 - Distinguish signal vs noise
 - Generate alternative interpretations
+- Test causal hypotheses
+- Compare intervention vs non-intervention paths
 
 Design principle:
 
@@ -88,6 +96,12 @@ Example agent roles:
 - Economic analyst
 - Technical AI analyst
 - Cultural analyst
+- Community interpreter
+- Moderator-arbiter
+
+These roles should not merely produce parallel opinions. They should operate as a structured
+forum: different viewpoints generate competing readings, while a moderator-arbiter tracks
+argument quality, unresolved disagreements, and possible blind spots.
 
 * * *
 
@@ -102,11 +116,14 @@ For each scenario:
 - Supporting signals
 - Counterarguments
 - Unresolved contradictions
+- Candidate interventions
+- Expected resilience under stress
 
 Output:
 
 - Top scenarios ranked by likelihood
 - Explanation of belief updates
+- Ranked intervention options with trade-offs
 
 * * *
 
@@ -117,6 +134,17 @@ Maps scenario distributions → actions.
 Key idea:
 
 > Recommend actions that are robust across multiple plausible futures.
+
+The decision layer should combine:
+
+- probabilistic ranking of futures,
+- causal models of why a scenario may unfold,
+- counterfactual comparison of interventions,
+- utility and resilience estimates,
+- explicit human approval for high-impact actions.
+
+Where possible, the system should prefer **soft intervention**: low-regret actions that reduce
+cascade risk without locking civilization into a brittle single path.
 
 * * *
 
@@ -129,6 +157,12 @@ Humans occupy critical roles:
 - Decision-maker
 - Ethics gatekeeper
 - Override authority
+- Institutional representative
+- Community feedback source
+
+Human involvement is not only a final approval step. Humans also provide cultural context,
+value correction, local ground truth, and legitimacy when the system must choose between
+efficient and acceptable actions.
 
 * * *
 
@@ -142,11 +176,34 @@ Specialized aligned agents:
 - Skeptic Agent
 - Forecaster Agent
 - Policy Agent
+- Causal Modeler
+- Moderator-Arbiter
+- Meta-Planner
 - Human Node
+
+The **Meta-Planner** selects how much compute, attention, and analytical depth should be
+allocated to each domain. It does not only plan actions in the world; it also plans how the
+system itself should reason, escalate, or simplify.
 
 * * *
 
-## 6\. Data Model
+## 6\. Training Environments
+
+Agents should not be trained only on the historical record of our world. They can also be
+trained on **synthetic alternative histories** and branching institutional scenarios:
+
+- worlds with missing or misleading evidence,
+- non-canonical technological development paths,
+- simulated social collapses and recoveries,
+- conflicting cultural interpretations of the same signal.
+
+This increases epistemic flexibility and reduces overfitting to one civilizational narrative.
+It helps agents treat the present not as the only imaginable world, but as one branch among
+many possible trajectories.
+
+* * *
+
+## 7\. Data Model
 
 ### Observation Packet
 
@@ -155,75 +212,104 @@ Specialized aligned agents:
 \- timestamp  
 \- domain  
 \- reliability_score  
+\- causal_hypotheses  
 \- affected_scenarios  
 \- direction_of_update (+ / -)  
 \- update_strength  
 \- alternative_interpretations  
+\- intervention_relevance  
 \- human_review_status
 
 * * *
 
-## 7\. Anti-Collapse Mechanisms
+## 8\. Anti-Collapse Mechanisms
 
 - Preserve low-probability scenarios
 - Maintain dissent
 - Track “what would change our mind”
 - Separate probability from impact
+- Distinguish correlation from causation
+- Prefer reversible actions when uncertainty is high
+- Run small-scale probes before full intervention
+- Prevent monoculture in agent viewpoints
 
 * * *
 
-## 8\. Temporal Memory
+## 9\. Temporal Memory
 
 Track:
 
 - Scenario evolution
 - Prediction errors
 - Agent reliability
+- Policy outcomes
+- Failed interventions
+- Changes in causal assumptions
+- Meta-level planning mistakes
+
+This temporal memory should function as a civilizational learning loop. The system must learn
+not only from the world, but from its own forecasting failures, overreactions, missed weak
+signals, and governance errors.
 
 * * *
 
-## 9\. Multi-Level Outputs
+## 10\. Multi-Level Outputs
 
 - Personal
 - Organizational
 - Civilizational
 
+Each level should receive a different interface:
+
+- personal outputs focus on practical choices and local uncertainty,
+- organizational outputs emphasize coordination, resource allocation, and governance trade-offs,
+- civilizational outputs emphasize strategic resilience, continuity, and long-horizon branching risks.
+
 * * *
 
-## 10\. Evaluation Criteria
+## 11\. Evaluation Criteria
 
 - Early signal detection
 - Decision robustness
 - Reduced forecasting errors
 - Explainability
+- Causal calibration
+- Ability to detect weak signals before cascades
+- Quality of disagreement rather than forced consensus
+- Recovery from mistaken interventions
 
 * * *
 
-## 11\. MVP Loop
+## 12\. MVP Loop
 
 1.  Detect signal
 2.  Verify
 3.  Map to scenarios
-4.  Challenge
-5.  Update probabilities
-6.  Propose actions
-7.  Human decision
+4.  Generate competing interpretations
+5.  Test causal and counterfactual implications
+6.  Challenge
+7.  Update probabilities
+8.  Propose actions
+9.  Human decision
+
+For high-risk domains, the MVP loop can also include limited micro-experiments, A/B-style
+probes, or local pilot interventions before large-scale commitment.
 
 * * *
 
-## 12\. Key Insight
+## 13\. Key Insight
 
 > Maintain structured uncertainty and map it to action—with humans in the loop.
 
 * * *
 
-## 13\. Open Problem
+## 14\. Open Problem
 
 > How do we act under persistent multiplicity of futures?
 
 * * *
 
-## 14\. Continuity Layer: Time Vault Integration
+## 15\. Continuity Layer: Time Vault Integration
 
 The system can be extended with a **continuity layer** that connects scenario steering with
 knowledge preservation and post-crisis recovery.
@@ -248,7 +334,7 @@ continuity and reboot module of the same civilizational intelligence stack.
 
 * * *
 
-# 📚 15. References & Influences
+# 📚 16. References & Influences
 
 ## 🧠 Scientific / Philosophical Foundations
 
