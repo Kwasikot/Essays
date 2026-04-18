@@ -25,6 +25,6 @@ subsystems within an AGI architecture.
 ## Related Documents
 
 - [Idea Map](../idea-map.md) - central index for the connected forecasting and epistemic essays.
-- [Multi-Scenario Civilization Steering System](../Multi-Scenario%20Civilization%20Steering%20System/Multi-Scenario%20Civilization%20Steering%20System.md) - applies multi-agent epistemics to forecasting and governance.
+- [Multi-Scenario Foresight Architecture](../multi-scenario-foresight-architecture/multi-scenario-foresight-architecture.md) - applies multi-agent epistemics to forecasting and governance.
 - [Doubtful AI](../doubtful_AI/doubtful_AI_concept.MD) - uncertainty-sensitive interfaces for non-collapsed reasoning.
 - [Alternative Histories: Artificial Evolution of Science](alternative_human_histories_generator.md) - supplies branching worlds and contradictory evidence for agent training.

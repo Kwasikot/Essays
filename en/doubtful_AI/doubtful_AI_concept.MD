@@ -151,7 +151,7 @@ These sources provide not only a scientific and philosophical foundation for Civ
 ## Related Documents
 
 - [Idea Map](../idea-map.md) - central index of adjacent forecasting, epistemic, and continuity essays.
-- [Multi-Scenario Civilization Steering System](../Multi-Scenario%20Civilization%20Steering%20System/Multi-Scenario%20Civilization%20Steering%20System.md) - turns explicit uncertainty into a full scenario-steering architecture.
+- [Multi-Scenario Foresight Architecture](../multi-scenario-foresight-architecture/multi-scenario-foresight-architecture.md) - turns explicit uncertainty into a full scenario-steering architecture.
 - [P4E AI](../p4e_ai/p4e_ai.MD) - applies forecasting and adaptive response at civilizational scale.
 - [Hierarchical System of Epistemic Agents](../synthetic_culture_generator/hierarchical_system_of_epistemic_agents.md) - supplies critic and verifier roles for reliable updating.
 

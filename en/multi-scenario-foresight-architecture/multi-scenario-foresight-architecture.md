@@ -2,7 +2,7 @@
 > Status: Draft concept
 > This document is duplicated in Reasonarium Vault.
 
-# 🌌 Multi-Scenario Civilization Steering System
+# 🌌 Multi-Scenario Foresight Architecture
 
 
 **(Concept: Parallel Futures + Aligned AI Agents + Humans in the Loop)**
@@ -275,13 +275,13 @@ The system is halted or replaced upon:
 
 ### 5.5 Legitimacy across scales
 
-- **Personal / organizational** MSCSS: legitimacy via user consent.
+- **Personal / organizational** MSFA: legitimacy via user consent.
 - **Institutional**: via a formal mandate from the hosting institution.
 - **Civilizational**: an **unresolved problem** - no world government exists with a
-  mandate to confer legitimacy. A reasonable position: MSCSS at civilizational scale
+  mandate to confer legitimacy. A reasonable position: MSFA at civilizational scale
   can only be **advisory** and federated; never coercive.
 
-### 5.6 What MSCSS is not
+### 5.6 What MSFA is not
 
 Anti-examples to narrow the definition:
 
@@ -290,7 +290,7 @@ Anti-examples to narrow the definition:
 - an instrument for legitimizing decisions already taken;
 - a centralized technocratic body.
 
-All of the above use parts of the MSCSS architecture but violate the principles of §4
+All of the above use parts of the MSFA architecture but violate the principles of §4
 and of this section.
 
 * * *
@@ -420,7 +420,7 @@ Each level should receive a different interface:
 - **Multiplicity of futures**: how do we act under persistent multiplicity of futures
   without prematurely collapsing it into a single narrative?
 - **Failure modes of the system itself**: how do we detect and survive failures of
-  MSCSS as an artifact, not only errors of individual forecasts? These include:
+  MSFA as an artifact, not only errors of individual forecasts? These include:
   - **operator capture** and use of the system to legitimize decisions already taken
     ("the AI said so" - legitimacy laundering);
   - **hallucinated scenarios** that look internally coherent but have no real-world
@@ -555,7 +555,7 @@ It is a **design direction** for:
 
 * * *
 
-# Appendix A. MSCSS on Early COVID-19
+# Appendix A. MSFA on Early COVID-19
 
 A hypothetical run of the system over publicly available signals as of
 **20–25 January 2020**. The goal is not hindsight self-congratulation, but to show
@@ -574,7 +574,7 @@ as real institutions.
 
 ## A.2 Observation layer (§3.2)
 
-Publicly available signals MSCSS would have packaged:
+Publicly available signals MSFA would have packaged:
 
 - preprints on medrxiv/biorxiv and early genome sequences;
 - ProMED-mail and its citation of local news from 30 December;
@@ -638,10 +638,10 @@ In practice most countries took most of these actions only in **March–April 20
 6–8 weeks later than the January 20 distribution justified. That gap is the measurable
 cost of collapsing uncertainty too early.
 
-## A.7 Failure modes MSCSS would still exhibit
+## A.7 Failure modes MSFA would still exhibit
 
 - **Operator capture**: ~2-week delay of open data by Chinese authorities. The correct
-  MSCSS response is to downweight sources with demonstrated delay (§5.3, §3.6). This
+  MSFA response is to downweight sources with demonstrated delay (§5.3, §3.6). This
   would not eliminate blind spots entirely.
 - **Systemic tautology**: agents trained on the SARS-2003 history could have
   overestimated containability - a classic prior-induced bias (see §14, "systemic
@@ -653,7 +653,7 @@ cost of collapsing uncertainty too early.
   public legitimacy without parallel risk communication and explicit engagement with
   the human layer (§4).
 
-## A.8 What MSCSS would **not** solve
+## A.8 What MSFA would **not** solve
 
 - Distinguishing S5 from S1–S4: insufficient public data in January 2020.
 - Political resistance to early restrictions.
@@ -662,10 +662,10 @@ cost of collapsing uncertainty too early.
 
 ## A.9 Conclusion
 
-On 20 January 2020 MSCSS would have recommended a **broad class of low-regret
+On 20 January 2020 MSFA would have recommended a **broad class of low-regret
 preventive actions** that were actually taken only 6–8 weeks later. This is exactly
 what "maintaining structured uncertainty and mapping it to action" means - and at the
-same time an illustration that even a correctly functioning MSCSS hits limits of
+same time an illustration that even a correctly functioning MSFA hits limits of
 legitimacy and political resistance, not only forecasting quality. §5 "Operator and
 Legitimacy" is thus not a secondary add-on but a critical component without which
 the forecasting part is useless.
