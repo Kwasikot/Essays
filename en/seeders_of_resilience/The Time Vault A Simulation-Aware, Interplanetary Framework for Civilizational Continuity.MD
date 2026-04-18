@@ -69,3 +69,10 @@ Iosif Shklovsky & Carl Sagan — Intelligent Life in the Universe (1966)
 Carl Sagan — Pale Blue Dot (1994)
 
 (Detailed drafts & schematics: https://github.com/Kwasikot/Essays/blob/main/en/seeders_of_resilience/time_capsule/Time%20capsule%20project.md)
+
+## Related Documents
+
+- [Idea Map](../idea-map.md) - central index for the connected continuity and steering essays.
+- [Multi-Scenario Civilization Steering System](../Multi-Scenario%20Civilization%20Steering%20System/Multi-Scenario%20Civilization%20Steering%20System.md) - adds early-warning, scenario steering, and continuity triggers before collapse.
+- [P4E AI](../p4e_ai/p4e_ai.MD) - connects resilience planning with civilizational monitoring and response.
+- [Towards a Universal Mind Interface](Towards%20a%20Universal%20Mind%20Interface%20Time%20Capsule%20as%20a%20Cross-Species%20Intelligence%20Bridge.MD) - extends the vault into an adaptive cognitive interface.
