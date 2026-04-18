@@ -74,7 +74,7 @@ Creating *alternative histories of science* is a way to:
 ## Related Documents
 
 - [Idea Map](../idea-map.md) - central index for the connected forecasting and epistemic essays.
-- [Multi-Scenario Civilization Steering System](../Multi-Scenario%20Civilization%20Steering%20System/Multi-Scenario%20Civilization%20Steering%20System.md) - turns persistent alternative worlds into a decision framework for the real future.
+- [Multi-Scenario Foresight Architecture](../multi-scenario-foresight-architecture/multi-scenario-foresight-architecture.md) - turns persistent alternative worlds into a decision framework for the real future.
 - [Hierarchical System of Epistemic Agents](hierarchical_system_of_epistemic_agents.md) - agent architecture for interpreting noisy and contradictory material.
 - [Doubtful AI](../doubtful_AI/doubtful_AI_concept.MD) - explicit uncertainty and visible branching of hypotheses.
 

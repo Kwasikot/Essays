@@ -136,7 +136,7 @@ If intelligence is truly substrate‑independent, then any being capable of inte
 ## Related Documents
 
 - [Idea Map](../idea-map.md) - central index for the connected continuity and cognition essays.
-- [Multi-Scenario Civilization Steering System](../Multi-Scenario%20Civilization%20Steering%20System/Multi-Scenario%20Civilization%20Steering%20System.md) - uses adaptive interpretation and human oversight for scenario steering.
+- [Multi-Scenario Foresight Architecture](../multi-scenario-foresight-architecture/multi-scenario-foresight-architecture.md) - uses adaptive interpretation and human oversight for scenario steering.
 - [The Time Vault](The%20Time%20Vault%20A%20Simulation-Aware%2C%20Interplanetary%20Framework%20for%20Civilizational%20Continuity.MD) - the continuity and preservation backbone of the capsule family.
 - [Hierarchical System of Epistemic Agents](../synthetic_culture_generator/hierarchical_system_of_epistemic_agents.md) - relevant for building interpretable learning and tutoring layers.
 

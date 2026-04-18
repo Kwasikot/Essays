@@ -1,8 +1,8 @@
 > Date: 2026-04-18
 > Status: Draft essay
-> Companion text to `Multi-Scenario Civilization Steering System.md`
+> Companion text to `multi-scenario-foresight-architecture.md`
 
-# Multi-Scenario Civilization Steering System: A Readable Overview
+# Multi-Scenario Foresight Architecture: A Readable Overview
 
 Most systems for thinking about the future fail in the same way: they simplify too early.
 They take a messy, uncertain situation and compress it into one dominant story. Once that
@@ -10,7 +10,7 @@ happens, everything else becomes harder. Weak signals are ignored. Low-probabili
 forgotten. Institutions organize around a narrative that may be elegant, emotionally
 comfortable, and completely wrong.
 
-The central idea of a Multi-Scenario Civilization Steering System is simple: do not collapse
+The central idea of a Multi-Scenario Foresight Architecture is simple: do not collapse
 uncertainty too early. Treat the future not as a single line, but as a structured field of
 alternative possibilities. Some futures are more likely than others. Some are more dangerous.
 Some are less probable but still important because their consequences are enormous. Good
@@ -116,7 +116,7 @@ interventions before committing to them, and preserve continuity if things still
 a system would not eliminate tragedy or uncertainty. But it could help us act with more
 intelligence inside uncertainty, rather than pretending uncertainty is gone.
 
-The Multi-Scenario Civilization Steering System is therefore not just a technical platform. It
+The Multi-Scenario Foresight Architecture is therefore not just a technical platform. It
 is a way of organizing collective foresight. It is a proposal for how AI, institutions, and
 human judgment might work together without collapsing complexity into propaganda, panic, or
 overconfidence. If civilization is entering an era of dense interacting risks, then it may need

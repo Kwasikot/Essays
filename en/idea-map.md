@@ -7,7 +7,7 @@ epistemic agents, civilizational steering, and continuity.
 
 ## Core Hub
 
-- [Multi-Scenario Civilization Steering System](./Multi-Scenario%20Civilization%20Steering%20System/Multi-Scenario%20Civilization%20Steering%20System.md)
+- [Multi-Scenario Foresight Architecture](./multi-scenario-foresight-architecture/multi-scenario-foresight-architecture.md)
   - The clearest synthesis point: persistent scenarios, aligned agents, humans in the loop,
     and robust actions across multiple futures.
 
@@ -40,7 +40,7 @@ epistemic agents, civilizational steering, and continuity.
 ### 1. Forecasting Path
 
 Start with [Doubtful AI](./doubtful_AI/doubtful_AI_concept.MD), then move to
-[Multi-Scenario Civilization Steering System](./Multi-Scenario%20Civilization%20Steering%20System/Multi-Scenario%20Civilization%20Steering%20System.md),
+[Multi-Scenario Foresight Architecture](./multi-scenario-foresight-architecture/multi-scenario-foresight-architecture.md),
 then expand to [P4E AI](./p4e_ai/p4e_ai.MD).
 
 ### 2. Epistemic Architecture Path
@@ -50,7 +50,7 @@ Start with
 then read
 [Alternative Histories: Artificial Evolution of Science](./synthetic_culture_generator/alternative_human_histories_generator.md),
 then return to
-[Multi-Scenario Civilization Steering System](./Multi-Scenario%20Civilization%20Steering%20System/Multi-Scenario%20Civilization%20Steering%20System.md).
+[Multi-Scenario Foresight Architecture](./multi-scenario-foresight-architecture/multi-scenario-foresight-architecture.md).
 
 ### 3. Continuity Path
 
@@ -59,7 +59,7 @@ Start with
 then
 [Towards a Universal Mind Interface](./seeders_of_resilience/Towards%20a%20Universal%20Mind%20Interface%20Time%20Capsule%20as%20a%20Cross-Species%20Intelligence%20Bridge.MD),
 then read
-[Multi-Scenario Civilization Steering System](./Multi-Scenario%20Civilization%20Steering%20System/Multi-Scenario%20Civilization%20Steering%20System.md)
+[Multi-Scenario Foresight Architecture](./multi-scenario-foresight-architecture/multi-scenario-foresight-architecture.md)
 as the steering layer that sits upstream of recovery.
 
 ## Conceptual Summary
