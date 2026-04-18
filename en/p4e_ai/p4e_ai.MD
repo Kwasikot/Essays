@@ -149,3 +149,12 @@ Superintelligence and advanced AI systems can radically enhance the realization 
 ## ✍️ Metaphorical Framing
 
 P4E with superintelligence is not only a “living organism” but also a **symbiotic ecosystem**: humans, AI, and infrastructure acting as co-evolving partners in resilience. Like a digital mycelium spread through society, it connects local nodes and global flows, constantly adapting to preserve the continuity of civilization.
+
+* * *
+
+## Related Documents
+
+- [Idea Map](../idea-map.md) - central index for the connected resilience and forecasting essays.
+- [Multi-Scenario Civilization Steering System](../Multi-Scenario%20Civilization%20Steering%20System/Multi-Scenario%20Civilization%20Steering%20System.md) - scenario distributions, robust decisions, and humans in the loop.
+- [Doubtful AI](../doubtful_AI/doubtful_AI_concept.MD) - explicit uncertainty and non-collapsed forecasting interfaces.
+- [The Time Vault](../seeders_of_resilience/The%20Time%20Vault%20A%20Simulation-Aware%2C%20Interplanetary%20Framework%20for%20Civilizational%20Continuity.MD) - continuity infrastructure and low-tech fallback preservation.

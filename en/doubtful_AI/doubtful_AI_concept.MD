@@ -146,3 +146,12 @@ His methods are akin to the "weak measurements" of social policy. ### Pierre Tei
 
 These sources provide not only a scientific and philosophical foundation for Civic Oracle, but also show that the idea of collective thinking, enhanced by interfaces and quantum metaphors, has long been maturing in culture. If you want, I can compile all this into a single final `.md` document with illustrations and publication-ready formatting in the next step.
 
+---
+
+## Related Documents
+
+- [Idea Map](../idea-map.md) - central index of adjacent forecasting, epistemic, and continuity essays.
+- [Multi-Scenario Civilization Steering System](../Multi-Scenario%20Civilization%20Steering%20System/Multi-Scenario%20Civilization%20Steering%20System.md) - turns explicit uncertainty into a full scenario-steering architecture.
+- [P4E AI](../p4e_ai/p4e_ai.MD) - applies forecasting and adaptive response at civilizational scale.
+- [Hierarchical System of Epistemic Agents](../synthetic_culture_generator/hierarchical_system_of_epistemic_agents.md) - supplies critic and verifier roles for reliable updating.
+

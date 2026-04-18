@@ -223,7 +223,32 @@ Track:
 
 * * *
 
-# 📚 14. References & Influences
+## 14\. Continuity Layer: Time Vault Integration
+
+The system can be extended with a **continuity layer** that connects scenario steering with
+knowledge preservation and post-crisis recovery.
+
+Possible integration points:
+
+- **Scenario-conditioned vault profiles**: different scenarios prioritize different archive
+  packages, toolchains, and educational content.
+- **Trigger logic for continuity mode**: when catastrophic indicators cross thresholds, the
+  system shifts part of its planning from optimization to preservation and reboot readiness.
+- **Adaptive pedagogy**: vault contents should not be static storage only, but guided learning
+  programs adjusted to the user's cognitive level, available tools, and local conditions.
+- **Distributed placement strategy**: scenario analysis can recommend where to place vaults,
+  backups, and resilient knowledge nodes across Earth, orbit, and off-world locations.
+- **Scenario memory for future recovery**: the vault can preserve not only technical knowledge
+  but also explanations of failed forecasts, governance mistakes, and model blind spots.
+- **Human governance over fallback protocols**: activation rules, ethical constraints, and
+  disclosure levels should remain auditable and human-supervised.
+
+In this framing, a **Time Vault** is not separate from scenario steering. It is the
+continuity and reboot module of the same civilizational intelligence stack.
+
+* * *
+
+# 📚 15. References & Influences
 
 ## 🧠 Scientific / Philosophical Foundations
 
@@ -284,3 +309,16 @@ It is a **design direction** for:
 - decision intelligence systems
 - AI-assisted governance
 - long-term civilization planning
+
+* * *
+
+## Related Documents
+
+- [Idea Map](../idea-map.md) - central entry point for the connected essay network.
+- [Doubtful AI](../doubtful_AI/doubtful_AI_concept.MD) - uncertainty, doubt, and multiple
+  branches of the future.
+- [P4E AI](../p4e_ai/p4e_ai.MD) - civilizational-scale monitoring, planning, and response.
+- [Hierarchical System of Epistemic Agents](../synthetic_culture_generator/hierarchical_system_of_epistemic_agents.md) - multi-agent verification and auditable reasoning.
+- [Alternative Histories: Artificial Evolution of Science](../synthetic_culture_generator/alternative_human_histories_generator.md) - persistent alternative worlds as epistemic training space.
+- [The Time Vault](../seeders_of_resilience/The%20Time%20Vault%20A%20Simulation-Aware%2C%20Interplanetary%20Framework%20for%20Civilizational%20Continuity.MD) - continuity, preservation, and recovery after failure.
+- [Towards a Universal Mind Interface](../seeders_of_resilience/Towards%20a%20Universal%20Mind%20Interface%20Time%20Capsule%20as%20a%20Cross-Species%20Intelligence%20Bridge.MD) - adaptive pedagogy and cognitive bootstrapping.
