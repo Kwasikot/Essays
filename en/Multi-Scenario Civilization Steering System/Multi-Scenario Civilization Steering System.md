@@ -350,7 +350,36 @@ continuity and reboot module of the same civilizational intelligence stack.
 
 * * *
 
-# 📚 16. References & Influences
+## 16\. Known Internal Contradictions
+
+This table records contradictions built into the concept itself, not defects of
+implementation. For each item it points to the relevant section of the document,
+the tension, and the applicable resolution principle - TRIZ-style separation,
+trade-off, or process norm.
+
+| # | Contradiction | Where in the doc | Tension | Resolution principle |
+|---|---|---|---|---|
+| 1 | Pluralism vs convergence to action | §3.3 ↔ §3.5 | Many voices give a better picture of the world, but a decision demands one answer | Separation **in process**: interpretation preserves pluralism, decision collapses it, disagreement log returns to the human |
+| 2 | Response speed vs human in the loop | §4 ↔ §3.5 | Weak signals require fast action; human decision requires time | Separation **by condition / impact**: fast reversible actions are autonomous, irreversible actions require explicit human approval |
+| 3 | Centralization vs fragmentation | §3.4 ↔ "single-loop" critique | A single loop gives coherence, an ensemble gives robustness against correlated failure | Separation **across levels**: thin protocol federation on top, deep local-loop autonomy below |
+| 4 | Transparency vs operational security | §11 ↔ §8 | Explainability is needed for legitimacy; full transparency is an attack surface for state actors and model poisoning | Separation **in time** (explanations with delay) and **by audience** (auditor vs public) |
+| 5 | Preserving low-probability scenarios vs limited attention | §8 ↔ §5 (Meta-Planner) | Tail scenarios must not be discarded, but attention cannot cover everything | Separation **by scale**: small standing reserve for tails, with an explicit escalation trigger if signals strengthen |
+| 6 | Descriptive vs prescriptive scenarios | §3.1, §3.5 | A scenario as forecast is updated by evidence; a scenario as goal is updated by values | Separation **by object type**: two classes of scenarios with different update logic |
+| 7 | Optimization vs continuity | §3.5 ↔ §15 | The normal mode optimizes actions; Time Vault mode optimizes preservation | Separation **in time**: trigger logic switches modes when catastrophic indicators cross thresholds |
+| 8 | Agent autonomy vs human override | §3.3 ↔ §4 | Agents must freely update beliefs; humans retain the final word | Separation **by decision domain**: epistemic updates are autonomous, high-impact actions require approval |
+| 9 | Diversity of roles vs shared alignment | §3.3 | All agents are "aligned" yet must give *different* readings of the world | Separation **across levels**: shared alignment on values, diversity on epistemic priors and roles |
+| 10 | Short-horizon signals vs long-horizon scenarios | §3.2, §9 | News moves in minutes, climate in decades; a single clock gives either overheating or blindness | Separation **by time scale**: different update cycles per domain, a meta-layer reconciles horizons |
+| 11 | Legitimacy vs expert optimality | §4, §3.5 | The forecast-optimal intervention may be politically unacceptable | Separation **by layer**: interventions ranked by utility and by legitimacy; the final choice is a human prerogative |
+| 12 | Early intervention vs reversibility | §8, §12 | Acting early on a weak signal is more effective but less justified | Separation **by amplitude**: micro-experiments and pilots rather than full intervention until evidence accumulates |
+| 13 | Training on synthetic histories vs calibration on real data | §6, §9 | Synthetic data is needed for epistemic flexibility, but forecasts are tested against the real world | Separation **by role of data**: synthetic for priors and robustness, real data for calibration and updates |
+
+The table is incomplete by construction. Each contradiction is worth formalizing
+as a separate ADR (Architecture Decision Record) with context, chosen principle,
+and status "proposed / accepted / superseded".
+
+* * *
+
+# 📚 17. References & Influences
 
 ## 🧠 Scientific / Philosophical Foundations
 
