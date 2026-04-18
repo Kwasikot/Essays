@@ -280,30 +280,13 @@ Each level should receive a different interface:
 
 * * *
 
-## 12\. MVP Loop
-
-1.  Detect signal
-2.  Verify
-3.  Map to scenarios
-4.  Generate competing interpretations
-5.  Test causal and counterfactual implications
-6.  Challenge
-7.  Update probabilities
-8.  Propose actions
-9.  Human decision
-
-For high-risk domains, the MVP loop can also include limited micro-experiments, A/B-style
-probes, or local pilot interventions before large-scale commitment.
-
-* * *
-
-## 13\. Key Insight
+## 12\. Key Insight
 
 > Maintain structured uncertainty and map it to action—with humans in the loop.
 
 * * *
 
-## 14\. Open Problems
+## 13\. Open Problems
 
 - **Multiplicity of futures**: how do we act under persistent multiplicity of futures
   without prematurely collapsing it into a single narrative?
@@ -325,7 +308,7 @@ probes, or local pilot interventions before large-scale commitment.
 
 * * *
 
-## 15\. Continuity Layer: Time Vault Integration
+## 14\. Continuity Layer: Time Vault Integration
 
 The system can be extended with a **continuity layer** that connects scenario steering with
 knowledge preservation and post-crisis recovery.
@@ -350,7 +333,7 @@ continuity and reboot module of the same civilizational intelligence stack.
 
 * * *
 
-## 16\. Known Internal Contradictions
+## 15\. Known Internal Contradictions
 
 This table records contradictions built into the concept itself, not defects of
 implementation. For each item it points to the relevant section of the document,
@@ -370,7 +353,7 @@ trade-off, or process norm.
 | 9 | Diversity of roles vs shared alignment | §3.3 | All agents are "aligned" yet must give *different* readings of the world | Separation **across levels**: shared alignment on values, diversity on epistemic priors and roles |
 | 10 | Short-horizon signals vs long-horizon scenarios | §3.2, §9 | News moves in minutes, climate in decades; a single clock gives either overheating or blindness | Separation **by time scale**: different update cycles per domain, a meta-layer reconciles horizons |
 | 11 | Legitimacy vs expert optimality | §4, §3.5 | The forecast-optimal intervention may be politically unacceptable | Separation **by layer**: interventions ranked by utility and by legitimacy; the final choice is a human prerogative |
-| 12 | Early intervention vs reversibility | §8, §12 | Acting early on a weak signal is more effective but less justified | Separation **by amplitude**: micro-experiments and pilots rather than full intervention until evidence accumulates |
+| 12 | Early intervention vs reversibility | §8 | Acting early on a weak signal is more effective but less justified | Separation **by amplitude**: micro-experiments and pilots rather than full intervention until evidence accumulates |
 | 13 | Training on synthetic histories vs calibration on real data | §6, §9 | Synthetic data is needed for epistemic flexibility, but forecasts are tested against the real world | Separation **by role of data**: synthetic for priors and robustness, real data for calibration and updates |
 
 The table is incomplete by construction. Each contradiction is worth formalizing
@@ -379,7 +362,7 @@ and status "proposed / accepted / superseded".
 
 * * *
 
-# 📚 17. References & Influences
+# 📚 16. References & Influences
 
 ## 🧠 Scientific / Philosophical Foundations
 
