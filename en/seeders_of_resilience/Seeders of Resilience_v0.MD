@@ -67,6 +67,22 @@ A natural extension of the Subnautica analogy is to cast one class of Seeder ins
 
 ---
 
+### Redundancy as Antifragile Slack
+
+Taleb's critique of modern fragility reframes redundancy: spare capacity is not waste when the system faces unknown shocks. A civilization optimized to the edge may look efficient in normal years, but it has no room for error when the distribution changes. The Seeder therefore treats redundancy as **antifragile slack**: unused capacity that becomes decisive when reality stops matching the model.
+
+Redundancy should appear at multiple layers:
+
+* **Material redundancy** — duplicate archives, seed banks, repair kits, low-tech toolchains, and multiple energy sources.
+* **Epistemic redundancy** — several explanations of the same principle, competing curricula, independent proofs, and error logs from other worlds.
+* **Institutional redundancy** — overlapping custodians, councils, guilds, and local workshops rather than one priesthood or one ministry of truth.
+* **Path redundancy** — several ways to reach the same capability, so a world without fossil fuels, dry land, rare metals, or stable states is not trapped.
+* **Network redundancy** — multiple relays, packet formats, storage media, and routes through the Galactic Mesh.
+
+The design goal is to turn one large, irreversible failure into many small, survivable failures. If one archive decays, another survives. If one curriculum misleads, another contradicts it. If one hub goes silent, packets route around it. If one technology path proves toxic, the Technetic Graph can backtrack without losing the civilization.
+
+In this sense the Seeder does not merely store backups. It stores **optionality under stress**.
+
 
 ## 3 | Admission Criteria for the Galactic Internet  
 
