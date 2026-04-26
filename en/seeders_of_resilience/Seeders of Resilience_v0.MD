@@ -27,6 +27,12 @@ The Seeder is therefore not only a backup archive. It is an antifragility engine
 | Failure mode | Rare but catastrophic | Survives disruption | Converts small failures into better graph weights |
 | Contact protocol | Forced uplift | Silent backup | Optional, staged, locally ratified handshake |
 
+### Avoiding Value Lock-In
+
+A Seeder can fail morally even if it succeeds technically. If it preserves one frozen ideology, one founder culture, or one moral snapshot forever, it becomes a lock-in machine rather than a resilience engine.
+
+The Kernel should therefore preserve moral corrigibility. It may transmit knowledge, warnings, and historical case studies, but it must not permanently entrench the values of the launching civilization. Mature recipient societies should inherit tools for moral reflection, plural deliberation, and institutional revision, not a final constitution written by the dead.
+
 ## 9 One example of seed vault is time capsule from my article
 
 [Towards a Universal Mind Interface: Time Capsule as a Cross-Species Intelligence Bridge](https://github.com/Kwasikot/Essays/blob/main/en/seeders_of_resilience/Towards%20a%20Universal%20Mind%20Interface%20Time%20Capsule%20as%20a%20Cross-Species%20Intelligence%20Bridge.MD)
